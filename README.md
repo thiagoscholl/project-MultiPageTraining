@@ -1,6 +1,6 @@
 # project-MultiPageTraining
 
-Complete front-end website with different pages and themes made it for practice.
+Complete front-end website made using Bootstrap 4 with different pages and themes made it with a free template for practice.
 
 # Screenshots
 
